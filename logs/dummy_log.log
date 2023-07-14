@@ -1,0 +1,666 @@
+2023-07-11T08:48:56.676Z info: [getUserByUserId] User detected with id: user:22
+
+2023-07-11T08:52:43.450Z info: [getUserByUserId] User found
+
+2023-07-11T18:14:43.159Z info: [getUsers] Get All Users request successfull: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+
+2023-07-11T18:15:37.059Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-11T18:15:55.264Z info: [getUserByUserId] User found
+
+2023-07-12T04:52:02.685Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:32.511Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:33.754Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:34.332Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:34.819Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:36.552Z info: [getUserByUserId] Record not found
+
+2023-07-12T10:24:38.900Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:41.630Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:43.440Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:48.169Z info: [getUserByUserId] User found
+
+2023-07-12T10:24:51.305Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:02.009Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:02.532Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:02.898Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:04.290Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:04.906Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:05.576Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:06.230Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:06.685Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:07.312Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:07.887Z info: [getUserByUserId] User found
+
+2023-07-12T10:25:08.612Z info: [getUserByUserId] User found
+
+2023-07-13T05:01:10.609Z info: [getUserByUserId] Record not found
+
+2023-07-13T05:02:40.902Z info: [getUserByUserId] Record not found
+
+2023-07-13T05:03:06.326Z info: [getUserByUserId] Record not found
+
+2023-07-13T05:08:57.828Z info: [getUserByUserId] Record not found
+
+2023-07-13T05:10:19.237Z info: [getUserByUserId] Record not found
+
+2023-07-13T05:25:50.918Z info: [getUserByUserId] User found
+
+2023-07-13T05:28:02.862Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T05:28:12.385Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T08:44:23.142Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T08:44:51.144Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T08:44:53.189Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:00:09.511Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:00:44.503Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:03:28.786Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:03:31.020Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:04:27.776Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:10:02.321Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:10:17.565Z info: [getUserByUserId] User found
+
+2023-07-13T09:10:51.312Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:11:10.821Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:12:08.090Z info: [getUserByUserId] User found
+
+2023-07-13T09:37:05.482Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:37:37.391Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:00.877Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:06.540Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:10.946Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:16.153Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:20.946Z info: [getUserByUserId] User found
+
+2023-07-13T09:38:26.573Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:33.566Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:38:39.148Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:41:41.779Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:41:43.969Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:41:46.592Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:43:05.797Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:43:10.578Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:43:18.010Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:43:21.724Z info: [getUserByUserId] User found
+
+2023-07-13T09:43:54.504Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:44:01.275Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:44:03.145Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:44:05.107Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:44:17.256Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:44:24.049Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:44:28.813Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:44:29.439Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:44:39.099Z info: [getUserByUserId] User found
+
+2023-07-13T09:45:01.745Z info: [createUser] Database connection error: Error: ER_DUP_ENTRY: Duplicate entry 'g4f@weff4df3433g4443s.sfgfsfvdonf' for key 'registration.email'
+
+2023-07-13T09:45:16.673Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:20.768Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:23.304Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:24.659Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:26.651Z info: [createUser] Database connection error: Error: ER_DUP_ENTRY: Duplicate entry 'g4f@weff4df3433g4443s.sfgfsfvdonf' for key 'registration.email'
+
+2023-07-13T09:45:34.030Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T09:45:50.831Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:52.524Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:54.087Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:56.429Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:45:58.243Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:46:49.449Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:46:52.052Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:46:52.590Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T09:48:05.912Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:08.516Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:09.873Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:12.634Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:17.621Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:18.950Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:22.085Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:24.278Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:25.706Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:48:28.950Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:49:29.752Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:49:32.045Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:49:34.991Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T09:50:09.067Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:50:13.474Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:51:55.266Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:52:08.077Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:52:10.964Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:53:16.947Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:53:21.573Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:53:30.808Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:53:40.892Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:54:02.382Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:54:39.651Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:54:51.922Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:54:53.963Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:55:01.546Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:55:11.886Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T09:55:14.383Z info: [getUserByUserId] User found
+
+2023-07-13T09:55:17.311Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:55:52.935Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:55:53.200Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:56:02.716Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:56:03.907Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:56:05.430Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:58:05.203Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:07.938Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:20.070Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:58:35.334Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:37.527Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:38.128Z info: [getUserByUserId] Record not found
+
+2023-07-13T09:58:51.393Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:52.952Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:54.627Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T09:58:56.538Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:00:16.085Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:00:19.595Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:00:22.690Z info: [getUserByUserId] Record not found
+
+2023-07-13T10:00:22.691Z info: [getUserByUserId] User found
+
+2023-07-13T10:00:22.692Z error: [getUserByUserId] Redis error occurred: UserDataNotFoundException: User not found.
+
+2023-07-13T10:00:28.426Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T10:00:28.428Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-13T10:00:30.655Z info: [getUserByUserId] User found
+
+2023-07-13T10:01:48.462Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:10:26.280Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:10:40.543Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:10:43.079Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:13:52.985Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:13:57.807Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:14:00.743Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:14:04.423Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:14:07.028Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:14:13.529Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:14:22.651Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:29:47.742Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:29:49.764Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:29:59.893Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:30:04.102Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:30:08.994Z info: [getUserByUserId] User found
+
+2023-07-13T10:30:18.782Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T10:30:18.784Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-13T10:30:31.843Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:30:32.291Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T10:30:32.295Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-13T10:30:55.092Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:31:00.444Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:34:18.962Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:34:20.793Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T10:34:20.796Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-13T10:34:34.429Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:34:34.874Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-13T10:34:34.877Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-13T10:34:48.568Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T10:34:49.205Z info: [getUserByUserId] User found
+
+2023-07-13T10:34:59.710Z info: [getUserByUserId] User found
+
+2023-07-13T11:20:01.631Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-13T13:08:55.498Z info: [getUserByUserId] User found
+
+2023-07-13T13:10:59.618Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:02:07.381Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:02:11.067Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:02:20.885Z info: [getUserByUserId] User found
+
+2023-07-14T05:02:22.873Z info: [getUserByUserId] User found
+
+2023-07-14T05:02:27.467Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:02:27.468Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:02:30.448Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:02:30.450Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:02:39.875Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:02:41.634Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:02:42.773Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:02:42.777Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:02:45.490Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:02:45.492Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:02:51.905Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:02:53.192Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:02:53.196Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:02:55.821Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:02:55.823Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:03:03.681Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:05:20.156Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:05:22.326Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:05:32.437Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:06:13.962Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:06:21.011Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:06:24.941Z info: [getUserByUserId] User found
+
+2023-07-14T05:06:27.831Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:06:27.836Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:14:24.958Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:14:32.733Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:14:32.737Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+
+
+2023-07-14T05:15:04.442Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:15:07.461Z info: [getUserByUserId] User found
+
+2023-07-14T05:16:25.324Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:16:25.651Z info: [getUserByUserId] User found
+
+2023-07-14T05:16:28.812Z info: [getUserByUserId] User found
+
+2023-07-14T05:16:38.131Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:16:38.132Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:32:37.407Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:32:41.446Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:32:41.449Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:32:53.542Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:35:53.152Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:35:56.188Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:35:58.984Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:35:59.192Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:35:59.195Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:36:06.984Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:39:57.837Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:39:59.447Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:39:59.448Z error: [getUserByUserId] Redis error occurred: SyntaxError: Unexpected token u in JSON at position 0
+
+2023-07-14T05:40:12.353Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:40:12.428Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:40:12.432Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:43:29.302Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:43:31.112Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:43:32.855Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:43:36.122Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:43:36.126Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:43:42.925Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:43:45.348Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:46:14.644Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:46:15.972Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T05:46:15.974Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T05:46:25.310Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:46:27.538Z info: [getUserByUserId] User found
+
+{
+  message: '[serverUpdate] Server listening on port: 3001',
+  level: 'info',
+  service: 'dummy_logger',
+  timestamp: '7/14/2023, 8:48:07 AM'
+}
+{
+  message: '[getUserByUserId] User found',
+  level: 'info',
+  service: 'dummy_logger',
+  timestamp: '7/14/2023, 8:48:17 AM'
+}
+{
+  message: '[serverUpdate] Server listening on port: 3001',
+  level: 'info',
+  service: 'dummy_logger',
+  timestamp: '7/14/2023, 8:48:43 AM'
+}
+2023-07-14T05:49:07.337Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:54:31.591Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T05:54:33.436Z info: [getUserByUserId] User found
+
+2023-07-14T06:05:49.654Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T06:05:49.655Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T06:06:59.068Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:07:02.248Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:07:46.502Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:08:10.779Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:08:15.253Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:08:18.979Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:08:23.769Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T06:08:23.775Z error: [getUserByUserId] Redis error occurred: TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+
+2023-07-14T06:12:06.473Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:11.005Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:14.499Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:16.531Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:17.251Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:33.312Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:34.292Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:35.405Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:12:38.636Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T06:13:46.573Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:13:48.319Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T06:13:49.313Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T06:15:29.325Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T07:06:13.445Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T08:38:44.563Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T08:41:10.572Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T08:41:14.825Z info: [getUserByUserId][cache] User detected with id: user:22
+
+2023-07-14T10:02:19.296Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:02:26.319Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:02:31.935Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:02:34.040Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:02:42.154Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:02:43.249Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:02:45.032Z info: [serverUpdate] Server listening on port: 3001
+
+2023-07-14T10:08:43.926Z info: [getUserByUserId][cache] User detected with id: user:22
+
